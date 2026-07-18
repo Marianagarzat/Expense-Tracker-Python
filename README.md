@@ -1,2 +1,7 @@
-# Expense-Tracker-Python
-A personal expense tracker built with Python to record, organize, and analyze expenses.
+## About
+
+This project was built as part of my Python learning journey, inspired by a tutorial. I customized and studied the code to better understand Python fundamentals.
+
+## Author
+
+Maintained and expanded by **Mariana Garza**.
